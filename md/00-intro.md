@@ -14,6 +14,8 @@ include-before: |
 
   This is a template repository for creating a PDF document from markdown files. It uses [Pandoc](https://pandoc.org/) to convert the markdown files to a PDF document.
 
+  You can download the merged file at [merge.pdf](https://manuellerchner.github.io/markdown-script/merge.pdf)
+
   ## How to Contribute
 
   1. Fork [this](https://github.com/ManuelLerchner/markdown-skript) Repository
