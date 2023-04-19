@@ -40,8 +40,8 @@ jobs:
 
       - uses: actions/upload-artifact@master
         with:
-          name: summary.pdf
-          path: docs/summary.pdf
+          name: merge.pdf
+          path: docs/merge.pdf
 
   push_merged_pdfs:
     if: github.event_name == 'push'
