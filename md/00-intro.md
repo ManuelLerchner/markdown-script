@@ -28,7 +28,5 @@ include-before: |
 
   ## Contributors
 
-  <a href="https://github.com/ManuelLerchner/markdown-script/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=ManuelLerchner/markdown-script" />
-  </a>
+  [![Contributors](https://contrib.rocks/image?repo=ManuelLerchner/markdown-script)](https://github.com/ManuelLerchner/markdown-script/graphs/contributors)
 ---
