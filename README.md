@@ -1,5 +1,5 @@
-[![Merge & Render PDF](https://github.com/ManuelLerchner/markdown-script/actions/workflows/render.yml/badge.svg)](https://github.com/ManuelLerchner/subject/actions/workflows/render.yml)
-[![Deploy static content to Pages](https://github.com/ManuelLerchner/markdown-script/actions/workflows/static.yml/badge.svg)](https://github.com/ManuelLerchner/subject/actions/workflows/static.yml)
+[![Merge & Render PDF](https://github.com/ManuelLerchner/markdown-script/actions/workflows/render.yml/badge.svg)](https://github.com/ManuelLerchner/markdown-script/actions/workflows/render.yml)
+[![Deploy static content to Pages](https://github.com/ManuelLerchner/markdown-script/actions/workflows/static.yml/badge.svg)](https://github.com/ManuelLerchner/markdown-script/actions/workflows/static.yml)
 
 # Markdown-Script
 
